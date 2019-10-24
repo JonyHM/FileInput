@@ -1,0 +1,20 @@
+{
+   "name": "TypeFileInput",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@types/node": "^8.0.29",
+      "babel-cli": "^6.26.0",
+      "babel-preset-env": "^1.7.0",
+      "ts-node": "^3.3.0",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "papaparse": "^5.1.0",
+      "reflect-metadata": "^0.1.10",
+      "typeorm": "0.2.19"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts"
+   }
+}
