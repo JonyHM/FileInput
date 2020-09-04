@@ -11,7 +11,7 @@
    },
    "dependencies": {
       "braces": "^3.0.2",
-      "papaparse": "^5.1.0",
+      "papaparse": "^5.2.0",
       "reflect-metadata": "^0.1.10",
       "typeorm": "0.2.19"
    },
