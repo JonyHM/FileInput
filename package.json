@@ -13,7 +13,7 @@
       "braces": "^3.0.2",
       "papaparse": "^5.1.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.19"
+      "typeorm": "0.2.25"
    },
    "scripts": {
       "start": "ts-node src/index.ts"
